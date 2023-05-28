@@ -15,5 +15,5 @@ The full code for the program can be found in the file: final_program.py
 
 Program Limitations:
 1) User will need notepad.exe on their PC.
-2) Program currently only works on Window OS.
-3) IPv6 addresses networks won't work.
+2) Program currently only works on the Window OS.
+3) IPv6 addresses and networks won't work.
