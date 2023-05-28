@@ -13,7 +13,7 @@ Note; the 3 IP addresses for the ping tests are:
 
 If any errors occur during the program's execution, the program will log this in a text file; "ping_error_log.txt".
 
-The full code for the program can be found in the file: final_program.py
+The full code for the program can be found in the file: "final_program.py"
 
 Additional Notes;
 
