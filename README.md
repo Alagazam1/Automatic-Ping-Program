@@ -2,6 +2,8 @@
 
 First attempt of an automatic ping program
 
+You can access the program by downloading the .exe file; Automatic Ping Program.exe
+
 This program attempts to automatically perform 3 ping commands via the Window's command promt and then output the results in a text file; "ping_results.txt", which will then be opened to display the results to the user.
 
 Note; the 3 IP addresses for the ping tests are:
