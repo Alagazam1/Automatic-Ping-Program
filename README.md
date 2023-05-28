@@ -2,7 +2,7 @@
 
 First attempt of an automatic ping program
 
-You can access the program by downloading the .exe file; Automatic Ping Program.exe
+You can access the program by downloading the .exe file; "Automatic Ping Program.exe"
 
 This program attempts to automatically perform 3 ping commands via the Window's command promt and then output the results in a text file; "ping_results.txt", which will then be opened to display the results to the user.
 
@@ -14,6 +14,10 @@ Note; the 3 IP addresses for the ping tests are:
 If any errors occur during the program's execution, the program will log this in a text file; "ping_error_log.txt".
 
 The full code for the program can be found in the file: final_program.py
+
+Additional Notes;
+
+The text files; "ping_results.txt" and "ping_error_log.txt" will be located in the same directory/folder that the "Automatic Ping Program.exe" is in.
 
 Program Limitations:
 1) User will need notepad.exe on their PC.
